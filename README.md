@@ -18,4 +18,4 @@
 作者：FurryHuiYao/Furry晖曜
 
 # 防篡改校验：
-本项目的物理防篡改校验码详见 Releases 页面的 **SHA256SUMS.txt**
+本项目的物理防篡改校验码详见 Releases 页面
